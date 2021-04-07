@@ -1,5 +1,5 @@
 # final_project
-project
-this is a project to a academic course anout machine learning.
+hello world,
+this is a project to an academic course about machine learning.
 i worked in this project with knn,dummy classifier and random forest models.
 enjoy!
